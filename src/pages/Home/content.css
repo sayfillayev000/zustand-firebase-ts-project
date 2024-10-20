@@ -1,0 +1,11 @@
+.content {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.hero-container {
+  position: absolute;
+  top: 72px;
+  right: 0px;
+}
